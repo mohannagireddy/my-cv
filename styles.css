@@ -1,0 +1,32 @@
+/***************************tag selectors***********************/
+a:hover{color:yellow;}
+a:active{color:red;}
+a:visited{color: purple;}
+  body {
+    background-color: #d5f1dc;
+  }
+
+  hr {
+    border-style: dotted none none;
+    border-color: #ceccc8;
+    width: 5%;
+    border-width: 6px;
+  }
+
+  h1 {
+    color: #556b2f;
+    font-family: sans-serif;
+  }
+
+  h2 {
+    color: #156a8d;
+  }
+
+  h3 {
+    color: #156a8d;
+    font-family: cursive;
+  }
+  /*********************id selectors**************************/
+  #circular{
+  border-radius: 100%;
+  }
